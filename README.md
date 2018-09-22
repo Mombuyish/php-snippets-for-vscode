@@ -10,9 +10,7 @@ As you can see, I add new functions , references by PHPStorm.
 | shortcut  | function                             |
 | --------- |--------------------------------------|
 | _c        | build construct method               |
-| class     | build class with namespace           |
-| aclass    | build abstract class with namespace  |
-| echo    | echo  |
+| eco    | echo  |
 | fore    | foreach  |
 | forek    | foreach with key  |
 | inc    | include  |
