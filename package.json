@@ -1,0 +1,21 @@
+{
+    "name": "php-snippets-for-vscode",
+    "displayName": "PHP snippets for vscode",
+    "description": "This extension will help you faster to make common using snippets.",
+    "version": "0.0.1",
+    "publisher": "Yish",
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "php",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
