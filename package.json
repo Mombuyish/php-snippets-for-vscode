@@ -2,10 +2,25 @@
     "name": "php-snippets-for-vscode",
     "displayName": "PHP snippets for vscode",
     "description": "This extension will help you faster to make common using snippets.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "Yish",
     "engines": {
         "vscode": "^1.27.0"
+    },
+    "icon": "images/php.png",
+    "galleryBanner": {
+        "color": "#DD4C4F",
+        "theme": "light"
+    },
+    "keywords": [
+        "PHPStorm",
+        "Live Templates",
+        "PHP",
+        "Snippets"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Mombuyish/php-snippets-for-vscode.git"
     },
     "categories": [
         "Snippets"
