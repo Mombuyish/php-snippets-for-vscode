@@ -7,7 +7,7 @@
     "engines": {
         "vscode": "^1.27.0"
     },
-    "icon": "images/php.png",
+    "icon": "images/elephant.png",
     "galleryBanner": {
         "color": "#DD4C4F",
         "theme": "light"
